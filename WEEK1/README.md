@@ -2,6 +2,7 @@
 
 In Week 01, I got familiar with the unit requirements and set up the software needed for the course. I also created my GitHub portfolio repository. In addition, I learned the basics of GNS3 by building a simple project, setting up a Linux host, and assigning it a static IP address.
 
+
 2. Software Setup
 
 I checked and installed the following software:
