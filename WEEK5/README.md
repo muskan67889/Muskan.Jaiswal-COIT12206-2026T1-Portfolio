@@ -25,7 +25,6 @@ Arp table observation
 - NO ARP entries for hosts in different VLANs
 
 ## Output of ovs-vsctl show
-![image](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK5/switch1.png?raw=true)
 
 VLANs sucessfully isolated the network into separate broadcast domains.
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK5/topology2.png?raw=true)
