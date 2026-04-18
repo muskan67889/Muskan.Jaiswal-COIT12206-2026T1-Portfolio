@@ -18,9 +18,8 @@ sysctl net.ipv4.ip_forward=0
 Command Uses were (ip route show) and (sysctl next.ipv4.ip_forward)
 
 ## Topology
-![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK4/topology.png?raw=true<img width="1319" height="842" alt="image" src="https://github.com/user-attachments/assets/791be7cc-a519-40a2-99d7-0d2965db23d5" />)
-![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK4/topology.png?raw=true<img width="1319" height="842" alt="image" src="https://github.com/user-attachments/assets/1379717d-5fb6-40ca-ab28-7e52ac181f83" />
-)
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK4/topology.png?raw=true)
+
 
 ## Testing
 I tested connectivity using ping between different subnets hosts and confirmed successful communication through the router.
