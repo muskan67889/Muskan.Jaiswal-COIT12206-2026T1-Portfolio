@@ -4,7 +4,7 @@ In Week 01, I got familiar with the unit requirements and set up the software ne
 
 ## Network Topology
 
-![images](images/week1-topology.png)
+
 
 2. Software Setup
 
