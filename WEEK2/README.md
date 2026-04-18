@@ -1,4 +1,4 @@
-## Task1
+## Task1 Overview
 To learn different ways of setting static IP addresses in Linux using GNS3.
 What I did:
 I created a GNS3 project called Setting-IP-[12315138]. I added 4 Linux hosts and 1 switch and connected them in a LAN using the network 10.1.1.1/24.
@@ -19,12 +19,25 @@ I learned different ways to configure IP addresses and the difference between pe
 
 To test network connectivity and measure delay using the ping command.
 What I did:
-Pinged Host B from Host A:
+## Pinged Host B from Host A:
 ping -c 5 10.1.1.X
 Result: Successful connection and RTT (round-trip time) was displayed.
-Pinged a wrong IP address:
+## Pinged a wrong IP address:
 ping 10.1.1.999
 Result: No response and packet loss was shown.
-Ping with options:
+## Ping with options:
 ping -c 3 -s 80 -i 2 10.1.1.X
 Result: Changed packet count, size, and interval and observed different results.
+
+## Host 1
+
+
+## Host 2
+
+## Host 3
+
+## Host 4
+
+
+## Reflection
+I learned how to configure static IP addresses using different methods in Linux. I also understood the difference between permanent configuration (interfaces file) and temporary configuration (ip command). This helped me understand how network settings work in real systems.
