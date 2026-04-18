@@ -49,8 +49,8 @@ Opened console and checked IP address using:
 
 6. Reflection
 
-This week tuitorial tought me how basic networking concepts works and how simulation tools like GNS3 are used to model real networks. I learned how to manually configure a Linux system, including assigning IP addresses and verifying connectivity with other host.
+This week tuitorial tought me how basic networking concepts works and how simulation tools like GNS3 are used to model real networks. The manual configuration process for a Linux computer was explained where an IP address had to be assigned and the communication between two host devices checked.
 
-I experienced some difficulties when editing the configuration files, as even small mistakes caused errors or prevented the network from working correctly. This highlighted the importance of accuracy and attention to detail when working with network configurations.
+There were challenges encountered while configuring the network, whereby, a slight error in the process could lead to failure or malfunctioning. This underscored the need for precision during network configuration.
 
-Overall, this lab provided a solid foundation for future networking tasks and improved my confidence in using both Linux commands and network simulation tools.
+In general, the lab exercise laid a good basis for future network activities.
