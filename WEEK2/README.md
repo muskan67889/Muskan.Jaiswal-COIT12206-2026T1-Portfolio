@@ -39,7 +39,7 @@ Result: Changed packet count, size, and interval and observed different results.
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host3.png?raw=true<img width="2266" height="1212" alt="image" src="https://github.com/user-attachments/assets/98515239-9f21-4fc7-97bf-a0754b54f2ff" />)
 
 ## Host 4
-![images]()
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host4.png?raw=true<img width="2264" height="1174" alt="image" src="https://github.com/user-attachments/assets/7161f069-8977-4fa5-b128-252cbf4a5be6" />)
 
 
 ## Reflection
