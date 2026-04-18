@@ -3,7 +3,7 @@
 In Week 01, I got familiar with the unit requirements and set up the software needed for the course. I also created my GitHub portfolio repository. In addition, I learned the basics of GNS3 by building a simple project, setting up a Linux host, and assigning it a static IP address.
 
 ## Network Topology
-![image alt]([image_url](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/6b2f6681f0942db680752b72cc75ea982f8a329e/WEEK1/Week1topology.png))
+
 
 2. Software Setup
 
