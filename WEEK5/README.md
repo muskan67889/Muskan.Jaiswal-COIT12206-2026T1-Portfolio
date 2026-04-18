@@ -35,7 +35,8 @@ VLANs sucessfully isolated the network into separate broadcast domains.
 In this task we need to configure a router to enable communication between VLANs.
 same setup as task 1 we jst need to add one Linux Router to eth0 of switch
 
- 
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK5/topology2.png?raw=true)
+
 
 ovs-vsctl set port eth0 trunks=[] (switch)
 (router)
@@ -48,9 +49,14 @@ ip address add 10.10.2.1/24 dev etho.492
 ip link set dev eth0.491 up
 ip link set dev eth0.492 up
 
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK5/t2router1.png?raw=true)
 
 
-Now we are able to ping a host in another network (h1🡪h4)
+Now we are able to ping a host in another network (h1 to h4)
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK5/t2h1toh2.png?raw=true)
+
+
+
 
 
 
