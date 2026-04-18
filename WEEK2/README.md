@@ -30,9 +30,10 @@ ping -c 3 -s 80 -i 2 10.1.1.X
 Result: Changed packet count, size, and interval and observed different results.
 
 ## Host 1
-![image]
+![image](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host1.png?raw=true<img width="2254" height="1176" alt="image" src="https://github.com/user-attachments/assets/f52b0a4f-fb74-4ac1-a1dd-884f7b18ad6b" />)
 
 ## Host 2
+
 
 ## Host 3
 
