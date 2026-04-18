@@ -27,7 +27,6 @@ Arp table observation
 ## Output of ovs-vsctl show
 
 VLANs sucessfully isolated the network into separate broadcast domains.
-![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK5/topology2.png?raw=true)
 
 
 ## Task 2:
@@ -55,8 +54,10 @@ Now we are able to ping a host in another network (h1 to h4)
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK5/t2h1toh2.png?raw=true)
 
 
+![image](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK5/image.png?raw=true)
 
-
-
-
+## Reflection
+In this lab, I learned how VLANs can be used to divide devices on the same switch into different networks. At first, all hosts could communicate, but after setting up VLANs, only devices within the same VLAN were able talk to each other.
+In Task 2, I used a router to connect the VLANs, which made it possible for all device to communicate again and even if they were in different VLANs. I also learned how important it is to correctly configure VLAN tags, trunk ports, and IP addresses.
+Overall, this lab helped me better understand VLANs and how routing is used to connect different networks.
 
