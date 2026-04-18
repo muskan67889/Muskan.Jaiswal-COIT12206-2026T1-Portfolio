@@ -17,7 +17,24 @@ sysctl net.ipv4.ip_forward=0
 
 Command Uses were (ip route show) and (sysctl next.ipv4.ip_forward)
 
+## Topology
+
+
 ## Testing
 I tested connectivity using ping between different subnets hosts and confirmed successful communication through the router.
 
 I learned how routing tables control network traffic and how routers forward packets between different subnets.
+
+I imported the OSPF template project and started all nodes. I waited for FRR routers to fully boot.No manual configuration was required because IP addresses and OSPF were already set.
+
+Commond Used:
+show ip route
+traceroute <destination IP>
+
+While testing I observed routing tables and neighbor relationships between routers. I used traceroute to check the path between the hosts. OSPF automatically recalculated a new path.
+
+I learned how OSPF automatically updates routing paths when a link fails and how routers dynamically find the best route in a network.
+
+## Reflection 
+This week helped me understand how routing works in both static and dynamic networks. I learned how routers forward packets between subnets and how OSPF automatically updates routes when network changes occur.
+
