@@ -30,16 +30,16 @@ ping -c 3 -s 80 -i 2 10.1.1.X
 Result: Changed packet count, size, and interval and observed different results.
 
 ## Host 1
-![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host1.png?raw=true<img width="2254" height="1176" alt="image" src="https://github.com/user-attachments/assets/f52b0a4f-fb74-4ac1-a1dd-884f7b18ad6b" />)
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host1.png?raw=true)
 
 ## Host 2
-![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/host2.png?raw=true<img width="2256" height="1186" alt="image" src="https://github.com/user-attachments/assets/51d6dc7e-84fc-45ea-9730-10d673cfccc4" />)
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/host2.png?raw=true<)
 
 ## Host 3
-![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host3.png?raw=true<img width="2266" height="1212" alt="image" src="https://github.com/user-attachments/assets/98515239-9f21-4fc7-97bf-a0754b54f2ff" />)
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host3.png?raw=true)
 
 ## Host 4
-![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host4.png?raw=true<img width="2264" height="1174" alt="image" src="https://github.com/user-attachments/assets/7161f069-8977-4fa5-b128-252cbf4a5be6" />)
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host4.png?raw=true)
 
 
 ## Reflection
