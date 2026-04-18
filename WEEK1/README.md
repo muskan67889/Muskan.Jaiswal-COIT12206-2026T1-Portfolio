@@ -45,11 +45,11 @@ Opened console and checked IP address using:
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK1/host%201%20ping.png?raw=true)
 
 ## Host 2
-
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK1/host%202%20ping.png?raw=true)
 
 6. Reflection
 
-This week helped me build a strong understanding of basic networking concepts and how simulation tools like GNS3 are used to model real networks. I learned how to manually configure a Linux system, including assigning IP addresses and verifying connectivity.
+This week tuitorial tought me how basic networking concepts works and how simulation tools like GNS3 are used to model real networks. I learned how to manually configure a Linux system, including assigning IP addresses and verifying connectivity with other host.
 
 I experienced some difficulties when editing the configuration files, as even small mistakes caused errors or prevented the network from working correctly. This highlighted the importance of accuracy and attention to detail when working with network configurations.
 
