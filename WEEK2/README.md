@@ -43,4 +43,4 @@ Result: Changed packet count, size, and interval and observed different results.
 
 
 ## Reflection
-I learned how to configure static IP addresses using different methods in Linux. I also understood the difference between permanent configuration (interfaces file) and temporary configuration (ip command). This helped me understand how network settings work in real systems.
+I was able to learn about configuring static IP address using various techniques in Linux. I was able to understand the difference between configuration that is done permanently (interface file) and configuration that is done temporarily (using ip command).
