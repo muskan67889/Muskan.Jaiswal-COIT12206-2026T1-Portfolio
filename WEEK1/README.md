@@ -5,10 +5,6 @@ In Week 01, I got familiar with the unit requirements and set up the software ne
 ## Network Topology
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK1/Week1topology.png?raw=true<img width="1901" height="765" alt="image" src="https://github.com/user-attachments/assets/5d8dd236-6a59-4826-9723-88e03526d99a" />)
 
-
-
-
-
 2. Software Setup
 
 I checked and installed the following software:
@@ -23,7 +19,9 @@ This setup is important because it gives me the tools I need to run network simu
 
 I created a private repository on GitHub using the required naming format:
 
-TCP-IP-Portfolio-[student id]
+TCP-IP-Portfolio-[student id]    
+
+Here is my first chan
 
 I made the repository private and shared access with my tutor. I also created my first portfolio file using Markdown.
 
@@ -33,6 +31,18 @@ How to configure a static IP address in a Linux system
 The importance of correct network configuration for communication between devices
 The difference between a host (end device) and a router (forwarding device)
 How to use Linux commands such as ip addr, ip route, and ip neigh to check network settings
+
+What I did:
+Created a new GNS3 project: GNS3-Intro-[12315138]
+Added one Linux host node
+Added text annotations (name, student ID, date, project title)
+Set a static IP address: 10.10.1.101 for host1
+Configured IP in /etc/network/interfaces
+Started the node
+Opened console and checked IP address using:
+
+ 
+
 
 6. Reflection
 
