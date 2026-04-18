@@ -30,7 +30,7 @@ ping -c 3 -s 80 -i 2 10.1.1.X
 Result: Changed packet count, size, and interval and observed different results.
 
 ## Host 1
-
+![image]
 
 ## Host 2
 
