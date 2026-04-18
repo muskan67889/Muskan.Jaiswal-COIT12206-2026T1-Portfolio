@@ -35,8 +35,8 @@ Result: Changed packet count, size, and interval and observed different results.
 ## Host 2
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/host2.png?raw=true<img width="2256" height="1186" alt="image" src="https://github.com/user-attachments/assets/51d6dc7e-84fc-45ea-9730-10d673cfccc4" />)
 
-
 ## Host 3
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK2/Host3.png?raw=true<img width="2266" height="1212" alt="image" src="https://github.com/user-attachments/assets/98515239-9f21-4fc7-97bf-a0754b54f2ff" />)
 
 ## Host 4
 
