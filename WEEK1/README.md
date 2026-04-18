@@ -3,7 +3,7 @@
 In Week 01, I got familiar with the unit requirements and set up the software needed for the course. I also created my GitHub portfolio repository. In addition, I learned the basics of GNS3 by building a simple project, setting up a Linux host, and assigning it a static IP address.
 
 ## Network Topology
-
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK1/Week1topology.png?raw=true)
 
 2. Software Setup
 
@@ -41,8 +41,11 @@ Configured IP in /etc/network/interfaces
 Started the node
 Opened console and checked IP address using:
 
- 
+ ## Host 1
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK1/host%201%20ping.png?raw=true)
+
+## Host 2
+
 
 6. Reflection
 
