@@ -59,3 +59,7 @@ So I learned how default gateways and routers help devices, in networks communic
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK6/router%202.png?raw=true)
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK6/router%202.png?raw=true)
 
+## Reflection
+In this tutorial, I gained knowledge on how computers within a network identify one another. During the use of the ping command, it became apparent that the ARP table automatically got updated to indicate which computer held a specific address.
+The term "REACHABLE" indicates that the computer is alive and has been contacted before. In addition, I came to terms with the fact that a default gateway acts as a route through which computers communicate beyond a specific network.
+
