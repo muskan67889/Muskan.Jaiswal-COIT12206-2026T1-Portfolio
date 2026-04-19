@@ -19,6 +19,16 @@ Command Uses were (ip route show) and (sysctl next.ipv4.ip_forward)
 
 ## Topology
 ![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK4/topology.png?raw=true)
+## Host1
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK4/Host%201.png?raw=true)
+## Host2
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK4/host%202.png?raw=true)
+## Host3
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK4/host3.png?raw=true)
+## Router1
+![images](https://github.com/muskan67889/Muskan.Jaiswal-COIT12206-2026T1-Portfolio/blob/main/WEEK4/Router%201.png?raw=true)
+
+
 
 
 ## Testing
